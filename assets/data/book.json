@@ -1,0 +1,140 @@
+{
+    "title":  "المحتوى الجامع رسم الصحابة وضبط التابع",
+    "shortTitle":  "رسم الطالب عبد الله",
+    "author":  "العلامة الطالب عبد الله الملقب أباه الجكني المحظري",
+    "editor":  "الشيخ جمعة بن عبد الله الكعبي",
+    "poemVerseCount":  205,
+    "contentStatus":  "catalog_only_source_text_needs_verified_transcription",
+    "verseRecordSchema":  {
+                              "number":  "integer from 1 to 205",
+                              "sectionId":  "section id",
+                              "text":  "verified, fully vocalized verse",
+                              "explanation":  "optional verified commentary"
+                          },
+    "sections":  [
+                     {
+                         "id":  "intro",
+                         "title":  "مقدمة النظم والأبيات الافتتاحية",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "deletion",
+                         "title":  "باب الحذف",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "weak_leaning",
+                         "title":  "باب المعتل والممال",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "deleted_letters",
+                         "title":  "باب بعض الأحرف المحذوفات",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "extra_ya",
+                         "title":  "باب الياءات الزوائد",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "wasl_beginning",
+                         "title":  "باب ألف الوصل في بداية الكلمة",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "alif_lam",
+                         "title":  "باب المعرف بأل",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "open_taa",
+                         "title":  "باب التاء المبسوطة",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "hamza",
+                         "title":  "باب الهمزة",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "addition",
+                         "title":  "باب المزيد",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "alif_after_waw",
+                         "title":  "باب زيادة الألف بعد واو الجمع والمفرد",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "wasl_vs_naql",
+                         "title":  "باب التمييز بين ألف الوصل وألف النقل",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "wasl_rules",
+                         "title":  "باب أحكام ألف الوصل",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "alif_lam_writing",
+                         "title":  "باب ما يكتب بالألف ولام الألف",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "assimilation",
+                         "title":  "باب الإدغام",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "shadda",
+                         "title":  "باب تشديد الواو والياء",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "separation",
+                         "title":  "باب الانفصال",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "connection",
+                         "title":  "باب الاتصال",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "campaign",
+                         "title":  "باب الحملة",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "rule_fel",
+                         "title":  "شرح قاعدة: إن ضم فعل...",
+                         "kind":  "explanation"
+                     },
+                     {
+                         "id":  "rule_nun",
+                         "title":  "شرح قاعدة: وسوى الإناث نون...",
+                         "kind":  "explanation"
+                     },
+                     {
+                         "id":  "dabt",
+                         "title":  "باب الضبط",
+                         "kind":  "poem"
+                     },
+                     {
+                         "id":  "appendix",
+                         "title":  "الملحق: أعداد المصاحف العثمانية وتوزيع القراء",
+                         "kind":  "appendix"
+                     },
+                     {
+                         "id":  "book_preface",
+                         "title":  "مقدمة الكتاب",
+                         "kind":  "intro"
+                     }
+                 ],
+    "verses":  [
+        
+
+               ]
+}
